@@ -9,12 +9,12 @@
 <div align="center">
 
 <!-- ANIMATED SVG BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there!+I'm+Ksheera;Full-Stack+Developer;Building+Web+Solutions" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there!+I'm+Ksheera;Full-Stack+Developer;Open+to+Opportunities" alt="Typing Animation"/>
 
 <br/>
 
 <!-- ANIMATED WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Ksheera%20S%20Shanubhogana%20Halli&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Header Wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Ksheera%20S%20Shanubhogana%20Halli&fontSize=35&fontColor=FFFFFF" alt="Wave Header"/>
 
 <br/>
 
