@@ -104,42 +104,74 @@
 
 ---
 
-## 🎓 Professional Certificates & Certifications
+## 📜 Certifications & Learning Journey
 
 <div align="center">
 
+<!-- CERTIFICATION HEADER -->
+
 ```
-╔════════════════════════════════════════════════════════════════╗
-║           📜  PROFESSIONAL CERTIFICATIONS                      ║
-║              Credentials & Achievements                        ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                 🎓 CERTIFICATION VAULT                      ║
+║              Verified Learning Achievements                 ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<details open>
-<summary>
-  <h3>📜 Certifications Earned</h3>
-</summary>
+<br/>
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuing Organization | 📅 Date Completed | 📝 Credential |
-|:---------------:|:----------------------:|:----------------:|:-------------:|
-| **Full-Stack Web Development** | Udemy / Coursera | 2024 | ✅ Verified |
-| **JavaScript Fundamentals** | FreeCodeCamp | 2023 | ✅ Verified |
-| **Python Programming Basics** | Codecademy | 2023 | ✅ Verified |
-| **Database Management (MongoDB & SQL)** | DataCamp | 2024 | ✅ Verified |
-| **Web Design & Responsive UI** | Udemy | 2023 | ✅ Verified |
+<!-- CERTIFICATION BADGES -->
+
+<img src="https://img.shields.io/badge/Python-Part%201-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Part 1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Part%202-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python Part 2"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Basics%20of-Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Basics of Python"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Foundation%20Certification-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python Foundation"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-Introduction-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 </div>
 
-**📚 Currently Pursuing:**
-- AWS Solutions Architect Associate
-- Advanced Python Development
-- Cloud Computing Fundamentals
+<br/>
 
-</details>
+### 📚 Certification Dashboard
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issued By | 📘 Skills Acquired | 🚀 Domain |
+|:----------------:|:------------:|:------------------:|:----------:|
+| **Programming Fundamentals using Python - Part 1** | Infosys Springboard | Variables, Data Types, Loops, Logic Building | 🐍 Python |
+| **Programming Fundamentals using Python - Part 2** | Infosys Springboard | Functions, Modules, Problem Solving | 🐍 Advanced Python |
+| **Basics of Python** | Infosys Springboard | Syntax, OOP Concepts, Programming Flow | 💻 Development |
+| **Python Foundation Certification** | Infosys Springboard | Core Programming & Application Development | 🏆 Certification |
+| **Introduction to MongoDB** | SimpliLearn | Collections, Documents, NoSQL Database Concepts | 🍃 Database |
+
+</div>
+
+---
+
+### 🧠 Learning Progress Tracker
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                  🚀 CONTINUOUS LEARNING                   │
+├────────────────────────────────────────────────────────────┤
+│  ✅ Strengthening Python Development Skills               │
+│  ✅ Improving Database Management Knowledge               │
+│  ✅ Practicing Full-Stack Development                     │
+│  ✅ Exploring Cloud & Modern Web Technologies             │
+│  ✅ Building Real-World Problem Solving Projects          │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
