@@ -9,7 +9,7 @@
 
 <!-- ANIMATED SVG BANNER -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+there!+I'm+Ksheera;Full-Stack+Developer;Open+to+Opportunities" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+there!+I'm+Ksheera;Full-Stack+Developer;Building+Web+Solutions"
   alt="Typing Animation"
 />
 
@@ -101,6 +101,45 @@
 | **Git**         | `▰▰▰▰▰▰▰░░░` | `70%`     | 🔀 Version Ctrl  |
 
 </div>
+
+---
+
+## 🎓 Professional Certificates & Certifications
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║           📜  PROFESSIONAL CERTIFICATIONS                      ║
+║              Credentials & Achievements                        ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<details open>
+<summary>
+  <h3>📜 Certifications Earned</h3>
+</summary>
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuing Organization | 📅 Date Completed | 📝 Credential |
+|:---------------:|:----------------------:|:----------------:|:-------------:|
+| **Full-Stack Web Development** | Udemy / Coursera | 2024 | ✅ Verified |
+| **JavaScript Fundamentals** | FreeCodeCamp | 2023 | ✅ Verified |
+| **Python Programming Basics** | Codecademy | 2023 | ✅ Verified |
+| **Database Management (MongoDB & SQL)** | DataCamp | 2024 | ✅ Verified |
+| **Web Design & Responsive UI** | Udemy | 2023 | ✅ Verified |
+
+</div>
+
+**📚 Currently Pursuing:**
+- AWS Solutions Architect Associate
+- Advanced Python Development
+- Cloud Computing Fundamentals
+
+</details>
 
 ---
 
@@ -294,21 +333,21 @@ TIMELINE ═══════════════════════�
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │                  COMPETENCY MATRIX                             │
-├─────────────────────┬──────────────────────────────────────────┤
-│  🔢 OOPS            │  ████████████████████ STRONG            │
-├─────────────────────┼──────────────────────────────────────────┤
-│  🗄️  DBMS            │  ████████████████████ STRONG            │
-├─────────────────────┼──────────────────────────────────────────┤
+├─────────────────┬──────────────────────────────────────────────┤
+│  🔢 OOPS        │  ████████████████████ STRONG                │
+├─────────────────┼──────────────────────────────────────────────┤
+│  🗄️  DBMS        │  ████████████████████ STRONG                │
+├─────────────────┼──────────────────────────────────────────────┤
 │  🌐 Computer Network │  ████████████░░░░░░░░ GROWING           │
-├─────────────────────┼──────────────────────────────────────────┤
+├─────────────────┼──────────────────────────────────────────────┤
 │  🤝 Communication   │  ████████████████████ STRONG            │
-├─────────────────────┼─────────────────────────────────���────────┤
+├─────────────────┼──────────────────────────────────────────────┤
 │  🧩 Problem Solving  │  ████████████████████ STRONG            │
-├─────────────────────┼──────────────────────────────────────────┤
+├─────────────────┼──────────────────────────────────────────────┤
 │  👥 Teamwork         │  ████████████████████ STRONG            │
-├─────────────────────┼──────────────────────────────────────────┤
+├─────────────────┼──────────────────────────────────────────────┤
 │  🎨 Creativity       │  █████████████████░░░ HIGH              │
-└─────────────────────┴──────────────────────────────────────────┘
+└─────────────────┴──────────────────────────────────────────────┘
 ```
 
 </div>
